@@ -2,3 +2,4 @@ streamlit
 cv2
 os
 request
+numpy
